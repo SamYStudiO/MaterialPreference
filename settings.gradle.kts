@@ -6,5 +6,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MaterialPreference"
-include(":app")
+include(":materialpreference-sample")
 include(":materialpreference")
