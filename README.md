@@ -5,7 +5,7 @@ Android [Material](https://github.com/material-components/material-components-an
 This library replace all [platform dialog](https://developer.android.com/reference/android/app/AlertDialog.Builder) with [material dialog](https://github.com/material-components/material-components-android/blob/master/lib/java/com/google/android/material/dialog/MaterialAlertDialogBuilder.java).
 It Also add some [preferences](https://developer.android.com/reference/androidx/preference/Preference) as [MaterialSlidePreference]() and other material components...
 
-Note this library is till build on top of [Preference](https://developer.android.com/reference/androidx/preference/Prefere) library and is not a replacement.
+Note this library is still build on top of [Preference](https://developer.android.com/reference/androidx/preference/Prefere) library and is not a replacement.
 
 Download
 --------
@@ -27,7 +27,7 @@ allprojects {
 ```
 and change versions:
 ```groovy
-implementation 'net.samystudio.materialpreference:materialpreference:0.1.0-SNAPSHOT'
+implementation 'net.samystudio.materialpreference:materialpreference:0.1-SNAPSHOT'
 ```
 
 Publishing
