@@ -9,7 +9,7 @@ Note this library is still build on top of [Preference](https://developer.androi
 
 Download
 --------
-YET TO BE RELEASE (WORK IN PROGRESS)
+YET TO BE RELEASED (WORK IN PROGRESS)
 
 
 Snapshots are available from [Sonatype's snapshots repository](https://oss.sonatype.org/content/repositories/snapshots/).
