@@ -9,9 +9,8 @@ Note this library is still build on top of [Preference](https://developer.androi
 
 Download
 --------
-```groovy
-implementation 'net.samystudio.materialpreference:materialpreference:0.1'
-```
+YET TO BE RELEASE (WORK IN PROGRESS)
+
 
 Snapshots are available from [Sonatype's snapshots repository](https://oss.sonatype.org/content/repositories/snapshots/).
 If you want to run latest snapshot add its repository from your root `build.gradle`:
