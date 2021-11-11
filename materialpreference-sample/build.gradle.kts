@@ -9,6 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "net.samystudio.materialpreference"
+        minSdk = Versions.minSdk
         targetSdk = Versions.targetSdk
         versionCode = 1
         versionName = "1.0"
@@ -46,4 +47,5 @@ dependencies {
     base()
     debug()
     test()
+    androidTest()
 }

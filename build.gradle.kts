@@ -16,12 +16,6 @@ plugins {
     id("com.diffplug.spotless") version Versions.diffplugin
 }
 
-allprojects {
-    repositories {
-        google()
-    }
-}
-
 subprojects {
     apply(plugin = "com.diffplug.spotless")
     configure<com.diffplug.gradle.spotless.SpotlessExtension> {
